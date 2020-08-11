@@ -1,13 +1,7 @@
-# France Ecosystème
+# UK Ecosystème
 
 ## Numerique.gouv.fr
-<div class='block'>
-  <span class='badge badge-info'>doctrine données</span>
-  <span class='badge badge-info'>conception services</span>
-</div>
-
 ![](1_map_France.assets/1_map_France-numerique.png)
-
 * * *
 ### Design numérique
 ![](1_map_France.assets/1_map_France-designgouv.png)
