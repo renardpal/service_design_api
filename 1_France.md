@@ -50,4 +50,24 @@ numerique.gouv.fr utilise beaucoup de photographies issues de banque d'image.
 La vidéo est peu présente.
 
 ## Schéma de l'écosystème
-![](1_France.assets/1_France-1_France-ecosysteme.png)
+Légende du tableau : 
+- Identité Numérique pour les citoyens :bust_in_silhouette:
+- Règles ou bonnes pratiques de construction de services numériques :beginner:
+- Gestion des habilitations et exposition des données sensibles :closed_lock_with_key:
+- Données ouvertes :unlock:
+- Sécurité et tech :bomb:
+- Pilotage et plan de transformation :dart:
+
+
+| Nom du service    |  Feature |  Cible | Capture | 
+|-------------------|---|---|---|
+| Numerique.gouv.fr | :beginner: :closed_lock_with_key: :dart: |   |  ![](1_France.assets/1_France-numerique.png) |
+| design.numerique.gouv.fr            | :beginner: :dart: |  Agents publics |   ![](1_France.assets/1_France-designgouv.png) |
+| Observatoire      | :dart:  |   |  ![](1_France.assets/1_France-observatoire.png)|
+| Références        | :dart: |   | ![](1_France.assets/1_France-references.png)|
+| api.gouv.fr          | :unlock: :closed_lock_with_key:   | Ministères, entreprises, collectivités  | ![](1_France.assets/1_France-api.png) |
+| beta.gouv.fr          | :beginner:  | Agents publics, décideurs publics  |![](1_France.assets/1_France-betagouv.png) |
+| data.gouv.fr          | :unlock:  |   |  ![](1_France.assets/1_France-data.png)|
+| FranceConnect.gouv.fr     | :bust_in_silhouette:  | Citoyens  |![](1_France.assets/1_France-fc.png) |
+| Pidila           | :beginner:  | Développeurs  |![](1_France.assets/1_France-pidila.png)|
+| Comment faire     | :beginner:  |   | ![](1_France.assets/1_France-commentfaire.png) 
