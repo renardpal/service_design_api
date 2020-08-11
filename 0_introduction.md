@@ -6,15 +6,22 @@ Août 2020
 Le but de ce document est d'établir une vue à l'instant T des pratiques en design de service et gestion des API au sein des administrations gouvernementales.
 Ce travail alimente la réflexion de l'équipe API de la DINUM (FR) en interrogeant les stratégies mises en place à l'étranger, en identifiant des modèles communs ou des problématiques auxquelles l'équipe API fait face dans le développement de ses produits, qui auraient trouvé une résolution réplicable ailleurs.
 Ce travail constitue une première étape d'identification avant d'entrer en contact avec des équipes étrangères pour aller plus avant sur le partage de pratiques et de problématiques.
-Les éléments vérifiés sont principalement liés à la façon dont sont traités ces éléments :
-- Identité Numérique pour les citoyens
-- Règles ou bonnes pratiques de construction de services numériques (design, UX, données connues de l'administration, accessibilité)
-- Gestion des habilitations et exposition des données sensibles
-- Données ouvertes
+
+Quels services mettent en avant ces éléments ?
+- Identité Numérique pour les citoyens :bust_in_silhouette:
+- Règles ou bonnes pratiques de construction de services numériques :beginner:
+- Gestion des habilitations et exposition des données sensibles :closed_lock_with_key:
+- Données ouvertes :unlock:
+- Sécurité et tech :bomb:
+- Pilotage et plan de transformation :dart:
+
+Comment sont traités ces sujets ?
 - Identité graphique et aspect général
-- Cibles adressées par les produits
-- Schéma de l'écosystème
+- Cibles adressées par les produits 
 - Inclusion
+
+Récapitulatif visuel
+- Schéma de l'écosystème 
 
 ## Collaboration
 Dans un environnement d'évolution continue, les sites changent, évoluent et se créent souvent : ce document présente un instantané et invite à des mises à jour  régulières.
@@ -23,7 +30,7 @@ Dans un environnement d'évolution continue, les sites changent, évoluent et se
 Cette étude porte principalement : pour l'Europe, sur le haut du classement DESI du service public ; pour le reste du monde, sur des exemples choisis en Océanie et Amérique du Nord.
 
 ### Europe
-1. [France](file://1_France.md)
+1. [France](./1_France.md)
 2. [Royaume-Uni](file://2_uk.md)
 3. [Suisse](file://3_suisse.md)
 4. [Finlande](file://4_finlande.md)
