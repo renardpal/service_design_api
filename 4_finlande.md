@@ -54,3 +54,9 @@ Légende du tableau :
 | [Palveluhallinta](https://palveluhallinta.suomi.fi/en)        | :dart: :bomb:| Administration  | ![](4_Finlande.assets/../4_Finland.assets/servicecatalog.png)|
 | [Liityntakatalogi](https://liityntakatalogi.suomi.fi/en_GB/)         | :closed_lock_with_key: :beginner:  | Administration  | ![](4_Finlande.assets/../4_Finland.assets/dataexchange.png) |
 | [Avoindata](https://www.avoindata.fi/en)        | :unlock:  |  Société civile |  ![](4_Finlande.assets/../4_Finland.assets/avoindata.png)|
+
+* * *
+
+> Comment l'agence digitale intervient-elle auprès des collectivités ? 
+> 
+> Est-elle exclusivement à l'origine du design des services et démarches ?

@@ -53,7 +53,9 @@ Légende du tableau :
 
 | Nom du service    |  Feature |  Cible | Capture | 
 |-------------------|---|---|---|
-| E-Governement |  :dart: :bomb: :closed_lock_with_key: :beginner:|   |  ![](2_Suisse.assets/2_Suisse-egovernment.png) |
-| EasyGov pour les entreprises           | :beginner: :bust_in_silhouette:|  Entreprises |   ![](2_Suisse.assets/2_Suisse-easygov.png) |
-| Identité numérique    | :bust_in_silhouette: :beginner: | Citoyens  |![](2_Suisse.assets/2_Suisse-eID.png) |
-| [Open Data](https://opendata.swiss/fr/)          | :unlock:  | Société civile  |![](2_Suisse.assets/2_Suisse-opendata.png) |
+| E-Governement |  :dart: :bomb: :closed_lock_with_key: :beginner:|   |  ![](3_Suisse.assets/egovernment.png) |
+| EasyGov pour les entreprises           | :beginner: :bust_in_silhouette:|  Entreprises |   ![](3_Suisse.assets/easygov.png) |
+| Identité numérique    | :bust_in_silhouette: :beginner: | Citoyens  |![](3_Suisse.assets/eID.png) |
+| [Open Data](https://opendata.swiss/fr/)          | :unlock:  | Société civile  |![](3_Suisse.assets/opendata.png) |
+
+> En dehors des considérations techniques d'interopérabilité, quelles règles de parcours utilisateur ? Quelles compétences dans les équipes de la CSI ?

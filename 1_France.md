@@ -6,27 +6,21 @@ Il agit comme un pont entre une porte identifiée et une autre en permettant un 
 Ce service est limité à l'administration et s'étend à quelques rares cas d'entreprises privées, dans l'application stricte de la loi.
 
 ## Règles ou bonnes pratiques de construction de services numériques
-### Conception des services
+### Conception des services - Accessibilité - UX
 Le site numerique.gouv.fr, via la mission tech.gouv et le site design.numerique.gouv.fr proposent tous les deux des accompagnements humains pour les administrations ayant à construire des services numériques.
 Le service [Betagouv](https://beta.gouv.fr/) est un programme de conception de services publics numériques. Une série de vidéos permet aux agents de concevoir selon une méthodologie centrée utilisateur.
 
-### UX
 Le site comment-faire.modernisation.gouv.fr propose des outils et méthodologie de conception centrée utilisateur.
 
-### Doctrine sur les données connues de l'administration
-Un décret encadre les droits et obligations de partage de données entre administrations pour la simplification des démarches. Ce cadre légale est rappelé en tant que ressource sur https://references.modernisation.gouv.fr/.
-Un rappel de cette loi et de ressources pour accéder à des données partagées est présente sur le site numerique.gouv.fr
-[L'observatoire du numérique](https://observatoire.numerique.gouv.fr/) est un indicateur d'avancées de la qualité des démarches administratives en ligne.
-
-### Règles d'accessibilité
 Les obligations légales sont présentes sur le site https://references.modernisation.gouv.fr/
 Pidila est un site qui liste des outils à disposition des développeurs.
 Design.numerique.gouv.fr rappelle les obligations tout en proposant des outils et une aide humaine pour cet aspect de la conception de services.
 
-### Sécurité & tech
-??
+### Doctrine sur les données connues de l'administration, exposition et habilitations
+Un décret encadre les droits et obligations de partage de données entre administrations pour la simplification des démarches. Ce cadre légale est rappelé en tant que ressource sur https://references.modernisation.gouv.fr/.
+Un rappel de cette loi et de ressources pour accéder à des données partagées est présente sur le site numerique.gouv.fr
+[L'observatoire du numérique](ahttps://observatoire.numerique.gouv.fr/) est un indicateur d'avancées de la qualité des démarches administratives en ligne.
 
-## Gestion des habilitations et exposition des données sensibles
 Un service d'habilitation permet la sécurisation des échanges de données entre administration.
 Le service api.gouv.fr expose les api conçues par les administrations.
 
@@ -53,7 +47,7 @@ La vidéo est peu présente.
 Légende du tableau : 
 - Identité Numérique pour les citoyens :bust_in_silhouette:
 - Règles ou bonnes pratiques de construction de services numériques :beginner:
-- Gestion des habilitations et exposition des données sensibles :closed_lock_with_key:
+- Exposition & habilitations pour les données :closed_lock_with_key:
 - Données ouvertes :unlock:
 - Sécurité et tech :bomb:
 - Pilotage et plan de transformation :dart:
@@ -71,3 +65,4 @@ Légende du tableau :
 | FranceConnect.gouv.fr     | :bust_in_silhouette:  | Citoyens  |![](1_France.assets/1_France-fc.png) |
 | Pidila           | :beginner:  | Développeurs  |![](1_France.assets/1_France-pidila.png)|
 | Comment faire     | :beginner:  |   | ![](1_France.assets/1_France-commentfaire.png) 
+* * *
