@@ -7,14 +7,14 @@ Le processus est différent selon qu'il s'agit de citoyens ([SingPass](https://w
 
 Le site [Ndi-API](https://www.ndi-api.gov.sg/) est le portail pour les entreprises qui souhaitent mettre utiliser ces services pour leurs utilisateurs. 
 L'implémentation est guidée par des bonnes pratiques de parcours, qui semblent valider l'habilitation aux API d'identification.
-Le CorpPass repose sur l'identification d'un administrateur de l'entité, lui-même identifié par le SinglePass.
+Le CorpPass repose sur l'identification d'un administrateur de l'entité, lui-même identifié par le SingPass.
 
 Enfin, une surcouche au SingPass permet à l'utilisateur de sélectionner les informations qu'il décide de partager à une entreprise privée : il s'agit de [SgId](https://id.gov.sg/).
 
 
 ## Règles ou bonnes pratiques de construction de services numériques
 ### Conception des services - Accessibilité - UX
-[GovTech](https://www.tech.gov.sg/) est l'agence dgitale gouvernementale qui détermine toute sles bonnes pratiques en terme de parcours, de conception technique et même de produits utilisés. 
+[GovTech](https://www.tech.gov.sg/) est l'agence dgitale gouvernementale qui détermine toutes les bonnes pratiques en terme de parcours, de conception technique et même de produits utilisés. 
 Elle est à l'origine de tous les produits qui facilitent la vie des l'administrations : vérification d'idenité, formulaires en ligne, etc. 
 Chaque produit possède son propre site vitrine, qui détermine à son tour les règles d'une bonne utilisation / implémentation. 
 Ces produits sont présentés de façon éditorialisés sur [Govtech](https://www.tech.gov.sg/products-and-services/?utm_source=hero_banner) et également sur le site [OpenGov](https://open.gov.sg/)
