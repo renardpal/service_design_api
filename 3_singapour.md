@@ -36,7 +36,7 @@ Tous les sites possèdent un formulaire de contact et un chat(bot ?) en ligne. L
 Il n'y a pas d'homogénéité graphique strictes mais les sites directement réalisés par govtech ont une iddentité propre. 
 Les illustrations sont fréquentes et on ressent une vraie modernité dans les choix UI.
 
-## Schéma de l'écosystème
+## Tableau de l'écosystème
 Légende du tableau : 
 - Identité Numérique pour les citoyens :bust_in_silhouette:
 - Règles ou bonnes pratiques de construction de services numériques :beginner:

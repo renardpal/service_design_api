@@ -41,7 +41,7 @@ Vidéo explicatives très faciles à comprendre pour tous les éléments liés �
 Identité du gouvernement utilisée sur le portail de la cyberadministration : le [design système](https://swiss.github.io/styleguide/en/) et toutes les guidelines sont disponibles librement. 
 Les autres services ont une identité propre.
 
-## Schéma de l'écosystème
+## Tableau de l'écosystème
 Légende du tableau : 
 - Identité Numérique pour les citoyens :bust_in_silhouette:
 - Règles ou bonnes pratiques de construction de services numériques :beginner:

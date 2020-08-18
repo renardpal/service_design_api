@@ -52,7 +52,7 @@ Seuls api.gouv.fr et design.numerique.gouv.fr intègrent des illustrations.
 numerique.gouv.fr utilise beaucoup de photographies issues de banque d'image.
 La vidéo est peu présente.
 
-## Schéma de l'écosystème
+## Tableau de l'écosystème
 Légende du tableau : 
 - Identité Numérique pour les citoyens :bust_in_silhouette:
 - Règles ou bonnes pratiques de construction de services numériques :beginner:

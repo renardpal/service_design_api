@@ -41,7 +41,7 @@ Formulaire de contact, centre d'appel et lieu physique.
 Il n'y a pas de cohérence stricte entre les services.
 Quasiment aucune iconographie. 
 
-## Schéma de l'écosystème
+## Tableau de l'écosystème
 Légende du tableau : 
 - Identité Numérique pour les citoyens :bust_in_silhouette:
 - Règles ou bonnes pratiques de construction de services numériques :beginner:

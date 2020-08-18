@@ -35,7 +35,7 @@ Les avancées en terme de service design du Royaume-Uni assure permettent la con
 Tous les sites suivent l'identité proposée par le design system de GDS.
 Vidéo explicative pour les sujets citoyens / agents publics (verify uk)
 
-## Schéma de l'écosystème
+## Tableau de l'écosystème
 Légende du tableau : 
 - Identité Numérique pour les citoyens :bust_in_silhouette:
 - Règles ou bonnes pratiques de construction de services numériques :beginner:

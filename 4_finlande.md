@@ -49,7 +49,7 @@ L'agence digitale finlandaise agit comme portail pour les citoyens et proposent 
 ## Identité graphique et aspect général
 Les sites à destination des administrations ont tous la même identité.
 
-## Schéma de l'écosystème
+## Tableau de l'écosystème
 Légende du tableau : 
 - Identité Numérique pour les citoyens :bust_in_silhouette:
 - Règles ou bonnes pratiques de construction de services numériques :beginner:
