@@ -1,5 +1,14 @@
 # France
 
+score DESI :
+- global : 12
+- utilisation de formulaires en ligne : 12
+- "dlnuf" : 23
+- dématerialisation : 11
+- service aux entreprises : 13
+- open data : 3
+- ux & support : 10
+
 ## Identité Numérique pour les citoyens
 Le service [FranceConnect](https://franceconnect.gouv.fr/) est le service de vérification de l'identité pour les citoyens.
 Il agit comme un pont entre une porte identifiée et une autre en permettant un échange des données : l'identité d'un citoyen a été préalablement certifiée par A. B demande à A, via [FranceConnect](https://franceconnect.gouv.fr/), cette certification.

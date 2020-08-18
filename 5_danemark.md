@@ -1,5 +1,16 @@
 # Danemark
 
+score DESI :
+- global : 3
+- utilisation de formulaires en ligne : 3
+- "dlnuf" : 12
+- dématerialisation : 2
+- service aux entreprises : 1
+- open data : 6
+- ux & support : 2
+
+
+
 **Attention : ces informations sont parfois issues d'une traduction automatique des sites. Des erreurs d'interprétation ne peuvent pas être totalement écartées.**
 
 ## Identité Numérique pour les citoyens

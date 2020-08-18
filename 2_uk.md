@@ -1,5 +1,14 @@
 # Royaume-Uni
 
+
+- global : 18
+- utilisation de formulaires en ligne : 5
+- "dlnuf" : 28
+- dématerialisation : 12
+- service aux entreprises : 5
+- open data : 21
+- ux & support : 15
+
 ## Identité Numérique pour les citoyens
 Le service [Gov UK Verify](https://www.verify.service.gov.uk/) est le service de vérification de l'identité pour les citoyens.
 Le site associé à ce service s'adresse aux organismes souhaitant mettre en place l'identification : la documentation insiste sur les aspects liés au parcours utilisateur. 

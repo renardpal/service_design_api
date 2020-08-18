@@ -35,7 +35,6 @@ Cette étude porte principalement : pour l'Europe, sur le haut du classement DES
 3. [Suisse](3_suisse.md)
 4. [Finlande](4_finlande.md)
 5. [Danemark](5_danemark.md)
-6. [Espagne](6_espagne.md)
 
 ### Reste du monde
 1. [Australie](1_australie.md)

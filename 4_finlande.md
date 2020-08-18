@@ -1,5 +1,17 @@
 # Finlande
 
+score DESI :
+- global : 4
+- utilisation de formulaires en ligne : 1
+- "dlnuf" : 5
+- dématerialisation : 9
+- service aux entreprises : 16
+- open data : 9
+- ux & support : 5
+
+
+
+
 ## Identité Numérique pour les citoyens
 Cet aspect est pris en charge sur le cite du gouvernement [Suomi.fi](
 https://www.suomi.fi/e-authorizations)
