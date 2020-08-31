@@ -10,18 +10,22 @@ score DESI :
 - ux & support : 10
 
 ## Identité Numérique pour les citoyens
-Le service [FranceConnect](https://franceconnect.gouv.fr/) est le service de vérification de l'identité pour les citoyens.
-Il agit comme un pont entre une porte identifiée et une autre en permettant un échange des données : l'identité d'un citoyen a été préalablement certifiée par A. B demande à A, via [FranceConnect](https://franceconnect.gouv.fr/), cette certification.
-Ce service est limité à l'administration et s'étend à quelques rares cas d'entreprises privées, dans l'application stricte de la loi.
+Le service [FranceConnect](https://franceconnect.gouv.fr/partenaires?source=homepage_header) est le service de vérification de l'identité pour les citoyens. 
+Ce service est limité à l'administration et s'étend à quelques rares cas d'entreprises privées, dans l'application stricte de la loi. Il identifie le citoyen via un tiers certifié.
 
 ## Règles ou bonnes pratiques de construction de services numériques
 ### Conception des services - Accessibilité - UX
-Le site numerique.gouv.fr, via la mission tech.gouv et le site design.numerique.gouv.fr proposent tous les deux des accompagnements humains pour les administrations ayant à construire des services numériques.
+[Numerique.gouv.fr](numerique.gouv.fr) recence l'offre de service à destination des agents et propose notamment des accompagnements humains dans la construction de services numériques dans l'administration. 
+Elle publie également la stratégie digitale de l'Etat, via la feuilel de route [tech.gouv](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/).
+
+[design.numerique.gouv.fr](design.numerique.gouv.fr) proposent également un accompagnement plus centré sur les sujets d'accessibilité et de parcours utilisateur. 
+
 Le service [Betagouv](https://beta.gouv.fr/) est un programme de conception de services publics numériques. Une série de vidéos permet aux agents de concevoir selon une méthodologie centrée utilisateur.
 
-Le site comment-faire.modernisation.gouv.fr propose des outils et méthodologie de conception centrée utilisateur.
+[Comment faire?](comment-faire.modernisation.gouv.fr) propose des outils et méthodologie de conception centrée utilisateur.
 
-Les obligations légales sont présentes sur le site https://references.modernisation.gouv.fr/
+Les obligations légales sont présentes sur [Références](https://references.modernisation.gouv.fr/).
+
 Pidila est un site qui liste des outils à disposition des développeurs.
 Design.numerique.gouv.fr rappelle les obligations tout en proposant des outils et une aide humaine pour cet aspect de la conception de services.
 

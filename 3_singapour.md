@@ -17,11 +17,15 @@ Enfin, une surcouche au SingPass permet à l'utilisateur de sélectionner les in
 [GovTech](https://www.tech.gov.sg/) est l'agence dgitale gouvernementale qui détermine toutes les bonnes pratiques en terme de parcours, de conception technique et même de produits utilisés. 
 Elle est à l'origine de tous les produits qui facilitent la vie des l'administrations : vérification d'idenité, formulaires en ligne, etc. 
 Chaque produit possède son propre site vitrine, qui détermine à son tour les règles d'une bonne utilisation / implémentation. 
+
 Ces produits sont présentés de façon éditorialisés sur [Govtech](https://www.tech.gov.sg/products-and-services/?utm_source=hero_banner) et également sur le site [OpenGov](https://open.gov.sg/)
 
 ### Doctrine sur les données connues de l'administration, exposition et habilitations
 [GovTech](https://www.tech.gov.sg/) donne la vision stratégique, assure le déploiement de cette vision, donne ses preuves d'impact et anime une communauté de pratique.
+
 Le partage entre administration n'est pas visible mais semble être pratiqué par défaut dans les conceptions de l'agence.
+
+Pour les services ouverts, l'identification dépend du produit : l'email d'un agent semble être suffisamment sécurisé pour être une clé d'identification - sur [formSG](https://form.gov.sg/#!/signin) par exemple.
 
 ## Données ouvertes
 Les données ouvertes sont disponibles sur [DataGov](https://data.gov.sg/).

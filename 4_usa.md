@@ -46,7 +46,7 @@ Légende du tableau :
 
 | Nom du service    |  Feature |  Cible | Capture | 
 |-------------------|---|---|---|
-|[Login.gov](https://login.gov/) | :bust_in_silhouette: | Citoyens  |  ![](4_Usa.assets/login.png) |
+|[Login.gov](https://login.gov/) | :bust_in_silhouette: | Citoyens & Agents publics  |  ![](4_Usa.assets/login.png) |
 |[Digital Gov](https://digital.gov/) | :dart: :bomb: :beginner:|  Agents publics |   ![](4_Usa.assets/digitalgov.png) |
 |[Resources data gov](https://resources.data.gov/) | :closed_lock_with_key: :dart: :bomb: | Agents publics  |  ![](4_Usa.assets/resourcesdata.png)|
 | [Data gov](https://www.data.gov/)       |  :unlock: | Tous  | ![](4_Usa.assets/datagov.png)|

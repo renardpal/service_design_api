@@ -1,6 +1,6 @@
 # Finlande
 
-score DESI :
+score DESI 2020 :
 - global : 4
 - utilisation de formulaires en ligne : 1
 - "dlnuf" : 5
@@ -10,18 +10,17 @@ score DESI :
 - ux & support : 5
 
 
-
-
 ## Identité Numérique pour les citoyens
-Cet aspect est pris en charge sur le cite du gouvernement [Suomi.fi](
-https://www.suomi.fi/e-authorizations)
+Cet aspect est pris en charge sur le site du gouvernement [Suomi.fi](
+https://www.suomi.fi/e-authorizations). L'identification se fait via des entreprises ou organisations tierces. Le citoyen peut également s'identifier grâce à une carte physique, sur les bornes d'accueil des établissements de service public. 
+Ce service permet aussi l'identification en tant qu'entreprise ou organisation. 
 
 ## Règles ou bonnes pratiques de construction de services numériques
 ### Conception des services
-L'intégralité de l'offre de service et des bonnes pratiques de conception sont disponible sur [un seul service](https://palveluhallinta.suomi.fi/en).
+L'intégralité de l'offre de service est promu sur [un seul service](https://palveluhallinta.suomi.fi/en) à destination des entreprises et organisations. 
 
 ### UX
-Les bonnes pratiques en terme de parcours utilisateur est décrite sur ce catalogue de service. Ces éléments sont produits par la [Digital and Population Data Services Agency](https://dvv.fi/en/digital-and-population-data-services-agency).
+Les bonnes pratiques en terme de parcours utilisateur est décrite sur ce catalogue de service pour chaque service (description, avantages, description technique, accès). Ces éléments sont produits par la [Digital and Population Data Services Agency](https://dvv.fi/en/digital-and-population-data-services-agency).
 
 ### Doctrine sur les données connues de l'administration
 Les informations concernant les [échanges de données](https://palveluhallinta.suomi.fi/en/sivut/palveluvayla/esittely) entre administration est disponible sur ce site national.
@@ -72,3 +71,5 @@ Légende du tableau :
 > Comment l'agence digitale intervient-elle auprès des collectivités ? 
 > 
 > Est-elle exclusivement à l'origine du design des services et démarches ?
+> 
+> Quelle différence entre les données ouvertes du FSC (catalog) et celles du portail d'open data ?

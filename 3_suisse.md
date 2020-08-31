@@ -12,8 +12,8 @@ Les documents visibles traitent plus de problématiques techniques et ingéniera
 non visible
 
 ### Doctrine sur les données connues de l'administration
-Le fait de ne plus demander de données connues est intégré dans l'offre globale à destination des entreprises, qui semble être plus avancée que celle pour les citoyens.
-https://www.easygov.swiss
+Le fait de ne plus demander de données connues est intégré dans l'offre globale à destination des entreprises ([Easygov](https://www.easygov.swiss)), qui semble être plus avancée que celle pour les citoyens.
+
 
 Pour le reste des démarches, le [processus est en cours de déploiement](https://www.egovernment.ch/fr/umsetzung/schwerpunktplan/promouvoir-les-plateformes-dechange-de-donnees-de-ladministr/) au sein des administrations, surtout dans le cadre de groupes de travail. La DSI de l'Etat coordonne les travaux. Les données sont accessible via une plateforme intranet exclusivement.
 
@@ -53,8 +53,8 @@ Légende du tableau :
 
 | Nom du service    |  Feature |  Cible | Capture | 
 |-------------------|---|---|---|
-| E-Governement |  :dart: :bomb: :closed_lock_with_key: :beginner:|   |  ![](3_Suisse.assets/egovernment.png) |
-| EasyGov pour les entreprises           | :beginner: :bust_in_silhouette:|  Entreprises |   ![](3_Suisse.assets/easygov.png) |
+| [E-Governement](https://www.egovernment.ch/fr/dokumentation/trends-in-der-digitalisierung/) |  :dart: :bomb: :closed_lock_with_key: :beginner:|   |  ![](3_Suisse.assets/egovernment.png) |
+| [Easygov](https://www.easygov.swiss) pour les entreprises           | :beginner: :bust_in_silhouette:|  Entreprises |   ![](3_Suisse.assets/easygov.png) |
 | Identité numérique    | :bust_in_silhouette: :beginner: | Citoyens  |![](3_Suisse.assets/eID.png) |
 | [Open Data](https://opendata.swiss/fr/)          | :unlock:  | Société civile  |![](3_Suisse.assets/opendata.png) |
 

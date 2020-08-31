@@ -12,6 +12,7 @@
 ## Identité Numérique pour les citoyens
 Le service [Gov UK Verify](https://www.verify.service.gov.uk/) est le service de vérification de l'identité pour les citoyens.
 Le site associé à ce service s'adresse aux organismes souhaitant mettre en place l'identification : la documentation insiste sur les aspects liés au parcours utilisateur. 
+L'idenfitication a lieu via un tiers certifié.
 
 ## Règles ou bonnes pratiques de construction de services numériques
 ### Conception des services - Accessibilité - UX
