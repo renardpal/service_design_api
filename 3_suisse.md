@@ -4,16 +4,16 @@
 Le service d'identification est l'[e-ID](https://www.bj.admin.ch/bj/fr/home/staat/gesetzgebung/e-id.html). La loi encadre l'identité numérique mais la mise en oeuvre en est assurée par les entreprises privées. 
 
 ## Règles ou bonnes pratiques de construction de services numériques
-### Conception des services
+### Conception des services - Accessibilité - UX
 Le site de l'[e-governement](https://www.egovernment.ch/fr/dokumentation/trends-in-der-digitalisierung/) affiche toutes les informations liées aux activités de l'administration en ligne et donne les domaines dans lesquels les innovations ont lieu.
-Les documents visibles traitent plus de problématiques techniques et ingénierales que de démarches de conception centrée utilisateur. 
 
-### UX
-non visible
+Chaque ligne de la stratégie du e-governement fait partie d'un plan publié sur le site avec son périmètre, le service ou ministère responsable et le calendrier de mise en place. Les secteurs semblent très segmentés et surtout perçus comme des sujets d'interopérabilité technique. 
+
+Les aspects parcours et expérience sont traités sous le nom ["convivialité des prestations électroniques"](https://www.egovernment.ch/fr/umsetzung/schwerpunktplan/ameliorer-la-convivialite-des-prestations-electroniques-des/). La résolution de cet aspect est prévu pour 2023. 
+
 
 ### Doctrine sur les données connues de l'administration
 Le fait de ne plus demander de données connues est intégré dans l'offre globale à destination des entreprises ([Easygov](https://www.easygov.swiss)), qui semble être plus avancée que celle pour les citoyens.
-
 
 Pour le reste des démarches, le [processus est en cours de déploiement](https://www.egovernment.ch/fr/umsetzung/schwerpunktplan/promouvoir-les-plateformes-dechange-de-donnees-de-ladministr/) au sein des administrations, surtout dans le cadre de groupes de travail. La DSI de l'Etat coordonne les travaux. Les données sont accessible via une plateforme intranet exclusivement.
 
